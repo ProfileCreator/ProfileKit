@@ -1,0 +1,3 @@
+opt_in_rules:
+  - trailing_whitespace
+  - vertical_whitespace_closing_braces
